@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            int iAppl = 12;
+            int iAppl = 123;
         }
     }
 }
